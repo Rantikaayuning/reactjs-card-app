@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/reactjs-task/static/css/main.ae483a7a.chunk.css",
+    "main.js": "/reactjs-task/static/js/main.daaa90a9.chunk.js",
+    "main.js.map": "/reactjs-task/static/js/main.daaa90a9.chunk.js.map",
+    "runtime-main.js": "/reactjs-task/static/js/runtime-main.e99cd1d5.js",
+    "runtime-main.js.map": "/reactjs-task/static/js/runtime-main.e99cd1d5.js.map",
+    "static/css/2.b72b1a0e.chunk.css": "/reactjs-task/static/css/2.b72b1a0e.chunk.css",
+    "static/js/2.c8777943.chunk.js": "/reactjs-task/static/js/2.c8777943.chunk.js",
+    "static/js/2.c8777943.chunk.js.map": "/reactjs-task/static/js/2.c8777943.chunk.js.map",
+    "static/js/3.b32ea71d.chunk.js": "/reactjs-task/static/js/3.b32ea71d.chunk.js",
+    "static/js/3.b32ea71d.chunk.js.map": "/reactjs-task/static/js/3.b32ea71d.chunk.js.map",
+    "index.html": "/reactjs-task/index.html",
+    "static/css/2.b72b1a0e.chunk.css.map": "/reactjs-task/static/css/2.b72b1a0e.chunk.css.map",
+    "static/css/main.ae483a7a.chunk.css.map": "/reactjs-task/static/css/main.ae483a7a.chunk.css.map",
+    "static/js/2.c8777943.chunk.js.LICENSE.txt": "/reactjs-task/static/js/2.c8777943.chunk.js.LICENSE.txt",
+    "static/media/bintang.63f6d266.png": "/reactjs-task/static/media/bintang.63f6d266.png",
+    "static/media/detail.css": "/reactjs-task/static/media/cloud.648d8d7a.gif",
+    "static/media/jenie.b4352a28.jpg": "/reactjs-task/static/media/jenie.b4352a28.jpg",
+    "static/media/lisa.74ebdd92.jpg": "/reactjs-task/static/media/lisa.74ebdd92.jpg",
+    "static/media/logor.eb2b9bac.png": "/reactjs-task/static/media/logor.eb2b9bac.png",
+    "static/media/me2020.524512e3.jpg": "/reactjs-task/static/media/me2020.524512e3.jpg",
+    "static/media/about.css": "/reactjs-task/static/media/nature3.debc0639.jpg",
+    "static/media/rj.d2024343.gif": "/reactjs-task/static/media/rj.d2024343.gif",
+    "static/media/rose.de32ea22.jpeg": "/reactjs-task/static/media/rose.de32ea22.jpeg",
+    "static/media/App.css": "/reactjs-task/static/media/snowhouse2.1573ae3c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e99cd1d5.js",
+    "static/css/2.b72b1a0e.chunk.css",
+    "static/js/2.c8777943.chunk.js",
+    "static/css/main.ae483a7a.chunk.css",
+    "static/js/main.daaa90a9.chunk.js"
+  ]
+}
