@@ -1,0 +1,27 @@
+body {
+  background-image: url(./assets/images/snowhouse2.jpg);
+  background-size: cover;
+}
+
+.welcome {
+  font-size: 50px;
+  line-height: 40px;
+  padding: 200px 200px 0px 200px;
+  color: white;
+  opacity: 0.5;
+  font-family: cursive, Tahoma, sans-serif;
+}
+
+.home .count {
+  font-size: 20px;
+  color: rgb(243, 249, 250);
+  opacity: 0.8;
+  font-family: cursive, Tahoma, sans-serif;
+}
+
+.home {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
